@@ -1,6 +1,7 @@
 {
   "name": "draggable_sublayouts",
   "version": "0.1.0",
+  "homepage": "https://SameeUzZama.github.io/",
   "private": true,
   "dependencies": {
     "@progress/kendo-licensing": "^1.2.2",
