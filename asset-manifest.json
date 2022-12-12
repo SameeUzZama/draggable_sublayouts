@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/draggable_sublayouts/static/css/main.0ed6bdc1.css",
+    "main.js": "/draggable_sublayouts/static/js/main.9982b97d.js",
+    "index.html": "/draggable_sublayouts/index.html",
+    "main.0ed6bdc1.css.map": "/draggable_sublayouts/static/css/main.0ed6bdc1.css.map",
+    "main.9982b97d.js.map": "/draggable_sublayouts/static/js/main.9982b97d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed6bdc1.css",
+    "static/js/main.9982b97d.js"
+  ]
+}
