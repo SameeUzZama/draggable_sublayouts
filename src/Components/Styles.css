@@ -1,0 +1,30 @@
+.pane-content-1 {
+  padding: 0 10px;
+  background-color: rgb(224, 200, 200);
+  color: rgb(0, 0, 0);
+  height: 97%;
+  overflow: hidden;
+}
+.pane-content-2 {
+  padding: 0 10px;
+  background-color: rgb(199, 199, 223);
+  color: rgb(0, 0, 0);
+  height: 97%;
+  overflow: hidden;
+}
+.pane-content-3 {
+  padding: 0 10px;
+  background-color: rgb(194, 204, 194);
+  color: rgb(0, 0, 0);
+  height: 97%;
+  overflow: hidden;
+}
+h3 {
+  font-size: 1.2em;
+  margin: 10px 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
